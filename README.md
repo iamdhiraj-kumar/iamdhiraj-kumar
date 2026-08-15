@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dhiraj
 
-🎓 BCA 1st Year student at ICFAI University, Dehradun  
+🎓 Pursuing BCA from ICFAI University, Dehradun  
 💻 Currently learning Python, C programming and Web Development  
 🌱 Interested in Open Source, Backend and Data Science  
 🚀 Building beginner-friendly projects to improve my skills  
